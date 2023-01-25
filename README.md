@@ -1,4 +1,4 @@
-# python-y-z_tespiti
+# python-yüz_tespiti
 ---
 ### Dışarıdan verilen bir videodaki insan yüzünü tespit eden program.
 ````
